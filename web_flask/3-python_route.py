@@ -35,4 +35,4 @@ if __name__ == '__main__':
         """
         return 'Python ' + text.replace('_', ' ')
 
-    app.run('0.0.0.0'
+    app.run('0.0.0.0')
